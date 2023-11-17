@@ -1,0 +1,60 @@
+[
+    {
+        "name": "应用商店",
+        "list": [
+             {
+               "name": "影音天堂4K高清版",
+                "url": "http://tvbox.vip/apk/影音天堂2.1.231114.apk",
+                "icon": "http://tvbox.vip/jpg/影音天堂.png",
+                "version": "点击安装"
+            },
+            {
+               "name": "影视世界4K高清版",
+                "url": "http://tvbox.vip/apk/影视世界1102.apk",
+                "icon": "http://tvbox.vip/jpg/影视世界.jpg",
+                "version": "点击安装"
+            },
+             {
+               "name": "雷石KTV",
+                "url": "http://tvbox.vip/apk/雷石KTV_3.66.apk",
+                "icon": "http://tvbox.vip/jpg/雷石KTV.jpg",
+                "version": "点击安装"
+            },
+            {
+                "name": "扫码关注",
+                "url": "http://tvbox.vip/jpg/微信公众号影音天堂.jpg",
+                "icon": "http://tvbox.vip/jpg/微信公众号影音天堂.jpg",
+                "version": "微信公众号:影音天堂"
+            }
+        ]
+    },
+    {
+        "name": "4K版影视软件下载安装",
+        "list": [
+            {
+                "name": "影音天堂4K高清版",
+                "url": "http://tvbox.vip/apk/影音天堂2.1.231114.apk",
+                "icon": "http://tvbox.vip/jpg/影音天堂.png",
+                "version": "点击安装"
+            },
+            {
+               "name": "影视世界4K高清版",
+                "url": "http://tvbox.vip/apk/影视世界1102.apk",
+                "icon": "http://tvbox.vip/jpg/影视世界.jpg",
+                "version": "点击安装"
+            },
+             {
+               "name": "雷石KTV",
+                "url": "http://tvbox.vip/apk/雷石KTV_3.66.apk",
+                "icon": "http://tvbox.vip/jpg/雷石KTV.jpg",
+                "version": "点击安装"
+            },
+            {
+                "name": "扫码关注",
+                "url": "http://tvbox.vip/jpg/微信公众号影音天堂.jpg",
+                "icon": "http://tvbox.vip/jpg/微信公众号影音天堂.jpg",
+                "version": "微信公众号:影音天堂"
+            }
+        ]
+    }
+]
